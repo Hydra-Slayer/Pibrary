@@ -1,14 +1,15 @@
 document.addEventListener('DOMContentLoaded', function () {
+    
     const books = [
         {
-            title: 'Book Title 1',
-            author: 'Author Name 1',
-            link: 'path/to/book1.pdf'
+            title: 'Atomic Habits',
+            author: 'James Clear',
+            link: '/assets/Atomic Habits James Clear.pdf'
         },
         {
-            title: 'Book Title 2',
-            author: 'Author Name 2',
-            link: 'path/to/book2.pdf'
+            title: 'The 48 Laws Of Power',
+            author: 'Robert Greene',
+            link: '/assets/The 48 Laws Of Power Robert Greene.pdf'
         }
         
         // Add more books here
